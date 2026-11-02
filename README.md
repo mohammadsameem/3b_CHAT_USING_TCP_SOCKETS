@@ -42,9 +42,8 @@ with socket.socket() as s:
 
 ## OUTPUT
 Refer to the following screenshot to view the output of the program.
-<img width="836" height="112" alt="image" src="https://github.com/user-attachments/assets/9af74941-a1a9-4b3c-98f6-bef9411225d3" />
+<img width="1916" height="310" alt="image" src="https://github.com/user-attachments/assets/d6aa2718-8226-4e03-9e3a-a558de370d6a" />
 
-<img width="841" height="128" alt="image" src="https://github.com/user-attachments/assets/294d5c9e-fe50-4744-93f0-72d823bfad61" />
 
 
 ## RESULT
